@@ -24,9 +24,5 @@ public class base {
 		driver.manage().window().maximize();
 		
 	}
-	
-//	public static void navigateTo(String url) {
-//		driver.get(url);
-//	}
 
 }
