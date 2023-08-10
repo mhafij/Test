@@ -49,23 +49,3 @@ public class navigate extends base {
 		
 	}
 }
-
-
-
-
-
-//h2[@class='title text-center']/text()
-
-
-
-
-
-
-//Actions actions = new Actions(driver);
-//WebElement lastProduct = driver.findElement(By.xpath("/html/body/section[2]/div/div/div[2]/div/div[35]/div/div[1]/div[2]/div/p"));
-// actions.moveToElement(lastProduct).perform();
-// System.out.println("Done Mouse hover on 'Music' from Menu");
-//String productEnd = lastProduct.getText();
-//JavascriptExecutor js = (JavascriptExecutor) driver;
-//js.executeScript("arguments[0].scrollIntoView();", lastProduct);
-//js.executeScript("window.scrollBy(0,document.body.scrollHeight)");
